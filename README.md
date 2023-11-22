@@ -3,7 +3,7 @@
   <li>Creater of <a href="https://github.com/aname2050/compacter">Compacter</a></li>
   <li>Created a <a href="https://github.com/aname2050/typescript-neural-network">neural network</a></li>
   <li>Created an <a href="https://github.com/aname2050/aos">operating system</a></li>
-  <li>Working on a <a href="https://github.com/aname2050/compacter">web based OS</a></li>
+  <li>Working on a <a href="https://github.com/aname2050/aos-web">web based OS</a></li>
 </ul>
 <h2 align="center">About me</h2>
 <p>
