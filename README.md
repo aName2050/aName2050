@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**aName2050/aName2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# aName2050
+Creator of [Compacter](https://github.com/aname2050/compacter).
+Working on [aOS Web](https://github.com/aname2050/aos-web).
+Created a [neural network](https://github.com/aname2050/typescript-neural-network).
+## Stats
+<a href="https://github.com/SpikeThatMike"><img src="https://github-readme-stats.vercel.app/api?username=aName2050&show_icons=true&theme=dark"/></a>
+</br>
+<a href="https://github.com/SpikeThatMike"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aName2050&theme=dark"/></a>
+</br>
+## Social
+<a href="https://discord.com/users/733422078501322887"><img src="https://lanyard-profile-readme.vercel.app/api/733422078501322887"/></a>
+</br>
