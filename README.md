@@ -5,6 +5,7 @@
   <li>Created an <a href="https://github.com/aname2050/aos">operating system</a></li>
   <li>Working on a <a href="https://github.com/aname2050/aos-web">web based OS</a></li>
   <li>Making the NPM package <a href="https://github.com/aname2050/prettylogs">PrettyLogs</a></li>
+  <li>Making the custom programming language <a href="https://github.com/aname2050/gigascript">GigaScript</a></li>
 </ul>
 <h2 align="center">About me</h2>
 <p>
