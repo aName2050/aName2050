@@ -1,4 +1,4 @@
-<h1 align="center">aName2050</h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=100&pause=1000&color=F75F22&center=true&vCenter=true&repeat=false&random=true&width=600&height=100&lines=aName2050" alt="Typing SVG" /></a></p>
 <ul>
   <li>Creater of <a href="https://github.com/aname2050/compacter">Compacter</a></li>
   <li>Created a <a href="https://github.com/aname2050/typescript-neural-network">neural network</a></li>
