@@ -1,11 +1,11 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=100&pause=1000&color=F75F22&center=true&vCenter=true&repeat=true&random=true&width=600&height=100&lines=aName2050" alt="Typing SVG" /></a></p>
-<ul>
+<!-- <ul>
   <li>Creater of <a href="https://github.com/aname2050/compacter">Compacter</a></li>
   <li>Created a <a href="https://github.com/aname2050/typescript-neural-network">neural network</a></li>
   <li>Created an <a href="https://github.com/aname2050/aos">operating system</a></li>
   <li>Working on a <a href="https://github.com/aname2050/aos-web">web based OS</a></li>
   <li>Making the custom programming language <a href="https://github.com/aname2050/gigascript">GigaScript</a></li>
-</ul>
+</ul> -->
 <h2 align="center">About me</h2>
 <p>
   <strong>Backend developer (with frontend knowledge)</strong> 
