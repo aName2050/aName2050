@@ -8,8 +8,8 @@
 </ul> -->
 <h2 align="center">About me</h2>
 <p>
-  <strong>Backend developer (with frontend knowledge)</strong> 
-  <p></p>Born and raised in California.</p>
+  <strong>Full stack developer</strong> 
+  <p>Born and raised in California.</p>
   <li>💪 High school sophomore</li>
   <li>👨‍💻 Tech enthusiast and software developer</li>
   <li>🏃‍♂️ Cross country and track distance runner</li>
