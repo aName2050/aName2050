@@ -10,9 +10,11 @@
 <p>
   <strong>Backend developer (with frontend knowledge)</strong> 
   <p></p>Born and raised in California.</p>
-  <li>💪 High school freshman</li>
+  <li>💪 High school sophomore</li>
   <li>👨‍💻 Tech enthusiast and software developer</li>
   <li>🏃‍♂️ Cross country and track distance runner</li>
+  <li>🤖 FRC Team 10059 Programmer</li>
+  <li>🎮 Roblox game developer</li>
 </p>
 <h2 align="center">Tools and Languages</h2>
 <p align="center">
