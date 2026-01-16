@@ -13,7 +13,7 @@
   <li>💪 High school junior (Class of 2027)</li>
   <li>👨‍💻 Tech enthusiast and software developer</li>
   <li>🏃‍♂️ Cross country and track distance runner</li>
-  <li>🤖 FRC Team 10059 Lead Programmer</li>
+  <li>🤖 FRC Team 10059 Lead Programmer and Club President</li>
   <li>🎮 Roblox game developer</li>
 </p>
 <h2 align="center">Tools and Languages</h2>
