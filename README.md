@@ -1,11 +1,12 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=100&pause=1000&color=F75F22&center=true&vCenter=true&repeat=true&random=true&width=600&height=100&lines=aName2050" alt="Typing SVG" /></a></p>
-<!-- <ul>
-  <li>Creater of <a href="https://github.com/aname2050/compacter">Compacter</a></li>
-  <li>Created a <a href="https://github.com/aname2050/typescript-neural-network">neural network</a></li>
-  <li>Created an <a href="https://github.com/aname2050/aos">operating system</a></li>
-  <li>Working on a <a href="https://github.com/aname2050/aos-web">web based OS</a></li>
-  <li>Making the custom programming language <a href="https://github.com/aname2050/gigascript">GigaScript</a></li>
-</ul> -->
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=100&pause=1000&color=F75F22&center=true&vCenter=true&repeat=true&random=true&width=600&height=100&lines=aName2050" alt="Typing name SVG" /></a></p>
+<h2 align="center">Projects</h2>
+<ul>
+  <li><a href="https://github.com/roboticsoghs/Rebuilt2026_10059">FRC #10059 2026 REBUILT Robot</a> (Lead Programmer)</li>
+  <li><a href="https://github.com/aname2050/typescript-neural-network">Neural Network</a></li>
+  <li><a href="https://github.com/aname2050/gigascript">GigaScript</a></li>
+  <li><a href="https://github.com/aname2050/rc-controller">RC Car powered by Pi Pico 2 W</a> (Remote Controller)</li>
+  <li><a href="https://github.com/aname2050/roblox-power-plant">Nuclear Power Plant Simulator in Roblox</a> (Dashboard)</li>
+</ul>
 <h2 align="center">About me</h2>
 <p>
   <strong>Full stack developer</strong> 
